@@ -218,7 +218,3 @@ This allows the tool to distinguish maps from different APRX files in the same p
 This tool is designed around maintainability.
 
 Users should be able to understand what is configured, where it is writing files, and how to adjust the setup later without starting over. It is meant to reduce the friction around backups while still keeping control where it belongs.
-
-## License
-
-Add your preferred license here.
