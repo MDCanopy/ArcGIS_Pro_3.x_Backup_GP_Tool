@@ -39,9 +39,6 @@ Remove schedules that are no longer needed
 ### Schedule setup
 <img width="442" height="345" alt="Screenshot 2026-04-08 at 9 19 14 AM" src="https://github.com/user-attachments/assets/6228d926-e3c2-4384-a856-04bef25ca8a9" />
 
-Weekly Settings
-<img width="448" height="553" alt="Screenshot 2026-04-08 at 9 19 59 AM" src="https://github.com/user-attachments/assets/e3aaad42-8af4-4d03-9107-51af013d23b2" />
-
 ### Run backup now
 <img width="460" height="242" alt="Screenshot 2026-04-08 at 9 20 33 AM" src="https://github.com/user-attachments/assets/06a8f931-50c9-49ee-8aa1-6c4978f59403" />
 
